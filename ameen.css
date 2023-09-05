@@ -1,0 +1,275 @@
+*
+{
+
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+font-family: 'josefin sans',sans-serif
+
+}
+body
+{
+background-color :rgb(44, 75, 101);
+
+
+}
+
+.flat
+{
+
+text-align: center;
+
+
+
+}
+
+
+.round
+{
+
+text-align: center;
+
+
+
+}
+.flatgost
+{
+
+
+    text-align: center;
+
+
+}
+
+
+.roundgost
+{
+
+
+    text-align: center;
+
+
+}
+
+
+
+h1
+{
+color: white;
+padding: 25px;
+font-style :oblique;
+
+}
+
+#register
+{
+
+background-color: rgb(91, 161, 218);
+color: ghostwhite;
+border: 2px beige ;
+font-size :large;
+padding: 15px;
+margin : 20px 100px 0 0 ;
+cursor: pointer;
+transition: 0.3s;
+opacity: 0.8;
+
+}
+
+#submit
+{
+    background-color :goldenrod;
+    color: ghostwhite;
+    border: 2px beige ;
+    font-size :medium;
+    padding: 10px;
+    margin : 20px 0 0 0 ;
+    cursor: pointer;
+    transition: 0.3s;
+    opacity: 0.8;
+
+}
+
+
+#register2
+{
+
+background-color: rgb(22, 134, 60);
+color: ghostwhite;
+border: 2px beige ;
+font-size :large;
+padding: 15px;
+margin : 20px 100px 0 0 ;
+border: 2px beige ;
+border-radius: 20px ;
+cursor: pointer;
+transition: 0.3s;
+opacity: 0.8;
+}
+
+#submit2
+{
+    background-color :crimson ;
+    color: ghostwhite;
+    border-radius: 20px ;
+    font-size :medium;
+    padding: 10px;
+    margin : 20px 0 0 0 ;
+    border: 2px beige ;
+    cursor: pointer;
+    transition: 0.3s;
+    opacity: 0.8;
+}
+
+
+#register3
+{
+
+background-color: rgb(44, 75, 101);
+color: ghostwhite;
+font-size :large;
+padding: 15px;
+margin : 20px 100px 0 0 ;
+border-style:  groove ;
+border-color: rgb(224, 101, 63);
+cursor: pointer;
+transition: 0.3s;
+}
+
+#submit3
+{
+    background-color :rgb(44, 75, 101);
+    ;
+    color: ghostwhite;
+    font-size :medium;
+    padding: 10px;
+    margin : 20px 0 0 0 ;
+    border: 2px beige ;
+    border-style:  solid ;
+    border-color: mediumorchid;
+}
+
+
+
+
+#register4
+{
+
+background-color: rgb(44, 75, 101);
+color: ghostwhite;
+font-size :large;
+padding: 15px;
+margin : 20px 100px 0 0 ;
+border-style:  solid ;
+border-color: rgb(212, 212, 34);
+border-radius: 20px ;
+}
+
+#submit4
+{
+    background-color: rgb(44, 75, 101); 
+    color: ghostwhite;
+    border-radius: 20px ;
+    font-size :medium;
+    padding: 10px;
+    border-style:  solid ;
+    margin : 20px 0 0 0 ;
+    border-color: rgb(28, 157, 204);
+}
+
+
+#register:hover
+{
+
+    opacity: 1
+
+
+
+
+}
+
+
+#register2:hover
+{
+
+    opacity: 1
+
+
+
+
+}
+
+
+
+#submit:hover
+{
+
+    opacity: 1
+
+
+
+
+}
+
+
+
+
+#submit2:hover
+{
+
+    opacity: 1
+
+
+
+
+}
+#register3:hover    
+{
+background-color:rgb(224, 101, 63)  ;
+
+
+}
+
+
+#submit3:hover
+{
+
+ 
+
+
+
+    background-color :mediumorchid;
+}
+
+
+
+#register4:hover    
+{
+background-color: rgb(212, 212, 34);
+
+
+}
+
+
+
+
+#submit4:hover
+{
+
+ 
+
+
+
+    background-color :  rgb(28, 157, 204);
+}
+
+
+
+
+
+
+
+
+
+
+
